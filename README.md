@@ -64,10 +64,6 @@
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="gabrieldepaula007@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
         <!-- Instagram -->
         <a href="https://www.instagram.com/gabrieldepaula_/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
@@ -75,10 +71,6 @@
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/gabriel-depaula16/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>
 </details>
