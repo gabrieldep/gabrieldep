@@ -18,7 +18,7 @@
         <samp>
                 「 From Belo Horizonte- MG, Brazil 」
                 <br>
-                「 Student, Computer Science@<b> Federal University of Minas Gerais</b> 」
+                「 Student, Computer Science @<b> Federal University of Minas Gerais</b> 」
                 <br>
                 <br>
         </samp>
