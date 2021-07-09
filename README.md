@@ -3,7 +3,6 @@
 <!-- leave a STAR, if you like it ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
 <!-- Intro  -->
 <h3 align="center">
