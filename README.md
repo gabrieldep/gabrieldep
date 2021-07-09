@@ -61,6 +61,9 @@
         <img alt="Gabriel de Paula's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=gabrieldep&show_icons=true&theme=radical" />
         <br>
+        <img alt="Gabriel de Paula's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldep&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+        <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Instagram -->
