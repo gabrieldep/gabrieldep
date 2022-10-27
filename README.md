@@ -23,7 +23,7 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://github.com/gabrieldep?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
         <!-- C++ -->
